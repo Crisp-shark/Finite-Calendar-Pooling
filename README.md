@@ -4,6 +4,8 @@
 
 需要准备证明汇报时，接着阅读：[Proposition 1 的 Step 1–5 逐步讲解与完整例子](proof-walkthrough.md)。
 
+如果想先通过一个具体例子弄懂第四步的两次分布替换，可以阅读：[用 $m=3,\ s=2$ 跑一遍完整证明](example-m3-s2.md)。
+
 原文是：
 
 > Write $[m]=\{1,\ldots,m\}$. For an increasing calendar $D=(D_1<\cdots<D_m)$ and $I=\{i_1<\cdots<i_s\}\subseteq[m]$, put $D_I=(D_{i_1},\ldots,D_{i_s})$. Identify subsets with their increasing listings. For discrete laws, $d_{\mathrm{TV}}(P,Q)=\frac12\sum_z|P(z)-Q(z)|$; $d_{\mathrm{TV}}(Y,Z)$ denotes the distance between the laws of $Y$ and $Z$.
