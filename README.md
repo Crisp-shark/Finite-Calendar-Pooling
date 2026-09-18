@@ -2,6 +2,8 @@
 
 这份说明先解释 *Finite Calendar Pooling* 中 Proposition 1 前面的记号，再解释命题本身。先分清“位置”“日期”和“日期的概率分布”，读命题会容易得多。这里暂不讨论证明。
 
+需要准备证明汇报时，接着阅读：[Proposition 1 的 Step 1–5 逐步讲解与完整例子](proof-walkthrough.md)。
+
 原文是：
 
 > Write $[m]=\{1,\ldots,m\}$. For an increasing calendar $D=(D_1<\cdots<D_m)$ and $I=\{i_1<\cdots<i_s\}\subseteq[m]$, put $D_I=(D_{i_1},\ldots,D_{i_s})$. Identify subsets with their increasing listings. For discrete laws, $d_{\mathrm{TV}}(P,Q)=\frac12\sum_z|P(z)-Q(z)|$; $d_{\mathrm{TV}}(Y,Z)$ denotes the distance between the laws of $Y$ and $Z$.
